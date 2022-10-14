@@ -1,0 +1,12 @@
+export { default as Navbar } from "./Navbar/Navbar";
+export { default as Footer } from "./Footer/Footer";
+export { default as Buttons } from "./Buttons";
+export { default as HeroSection } from "./HomeComponent/HeroSection";
+export { default as ServiceCurd } from "./HomeComponent/ServiceCurd";
+export { default as Inputs } from "./Inputs";
+export { default as ActionsAuc } from "./AuctionsComponent/ActionsAuc";
+export { default as DetailsAuc } from "./AuctionsComponent/DetailsAuc";
+export { default as ImagesAuc } from "./AuctionsComponent/ImagesAuc";
+export { default as CurdAuctions } from "./AuctionsComponent/CurdAuctions";
+export { default as Containers } from "./Containers";
+export { default as Heading } from "./Heading";
