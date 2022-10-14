@@ -1,3 +1,46 @@
+<h1 align="center">Welcome to Auction Project 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.1-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: Mahmoud Saber" src="https://img.shields.io/badge/License-Mahmoud Saber-yellow.svg" />
+  </a>
+</p>
+
+> This site is designed to conduct auctions on condominiums With it you can bid on your auction, whether it is an apartment or two Acceptance of users when requesting entry to the auction after verifying the payment data You can see everyone who has bid on the auction at the same time
+
+> Complete control of users - Full Responsive - Clean Code / Techniques used : ( React.js - Chakra UI (For Design) - Tailwind CSS - Context Api - Axios)
+
+## Screenshot
+
+![auction-house](https://user-images.githubusercontent.com/67934444/195955051-40eb3cda-bd14-4220-b9e1-cf5f856cc1f9.png)
+
+### 🏠 [Live-Demo](https://mhouses.net)
+
+## Usage
+
+```sh
+Open URL
+```
+
+## Author
+
+👤 **Mahmoud Saber**
+
+- Website: https://my-portfolio-105.netlify.app
+- Github: [@MahmoudSaber1](https://github.com/MahmoudSaber1)
+- LinkedIn: [@https:\/\/www.linkedin.com\/in\/mahmoud-saber-49a483214\/](https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-saber-49a483214/)
+
+## Backend
+
+👤 **Youssef Elsadaany**
+
+- LinkedIn: [@https:\/\/www.linkedin.com\/in\/yousef-elsaadany-0b0364206\/](https://linkedin.com/in/https://www.linkedin.com/in/yousef-elsaadany-0b0364206/)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
